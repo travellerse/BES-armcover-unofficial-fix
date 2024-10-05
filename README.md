@@ -9,7 +9,6 @@ BES-armcover-unofficial-fix
 │   └── body
 │       ├── leftarmcover.png
 │       └── rightarmcover.png
-├── LICENSE
 ├── .gitignore
 └── README.md
 ```
